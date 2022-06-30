@@ -2,6 +2,5 @@
 
 | __TOPIC__| __SOURCE 1__|
 |---|---|
-|Logarithms| [By Sahil Khandelwal](https://youtu.be/rYYSVLmk8LA)|
-| Clocks | [By Deepak Sir](https://youtu.be/9xnlcv9IC88)
-
+|Logarithms|<a href="https://youtu.be/rYYSVLmk8LA" target="_blank">By Sahil Khandelwal</a>|
+| Clocks |<a href="https://youtu.be/9xnlcv9IC88" target="_blank">By Deepak Sirl</a> |
